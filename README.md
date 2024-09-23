@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ,Good day~👋
 
 <!--
 **Seong-Hyeon-Park/Seong-Hyeon-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
